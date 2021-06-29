@@ -1,0 +1,16 @@
+[INFO ] 2021-06-29 13:27:18.555 [main] Log - dd test is starting.
+[INFO ] 2021-06-29 13:27:18.555 [main] Log - dd test is skipped.
+[INFO ] 2021-06-29 13:27:18.760 [main] Log - dd test is failed.
+[INFO ] 2021-06-29 13:27:18.761 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2021-06-29 13:28:12.034 [main] Log - I am in onStart method LoginTest
+[INFO ] 2021-06-29 13:28:20.297 [main] Log - dd test is starting.
+[INFO ] 2021-06-29 13:28:23.437 [main] Log - dd test is failed.
+[INFO ] 2021-06-29 13:28:23.438 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2021-06-29 14:08:42.911 [main] Log - I am in onStart method LoginTest
+[INFO ] 2021-06-29 14:08:46.149 [main] Log - dd test is starting.
+[INFO ] 2021-06-29 14:08:48.869 [main] Log - dd test is failed.
+[INFO ] 2021-06-29 14:08:48.870 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2021-06-29 14:20:41.690 [main] Log - I am in onStart method LoginTest
+[INFO ] 2021-06-29 14:20:44.384 [main] Log - dd test is starting.
+[INFO ] 2021-06-29 14:20:46.491 [main] Log - dd test is failed.
+[INFO ] 2021-06-29 14:20:46.506 [main] Log - I am in onFinish method LoginTest

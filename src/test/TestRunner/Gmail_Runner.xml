@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Test Suite" parallel="false">
+
+    <parameter name="cloud" value="false"/>
+    <parameter name="envName" value="browserstack"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="browserVersion" value="91"/>
+    <parameter name="url" value="https://accounts.google.com/signin/v2/identifier?service=mail&amp;passive=true&amp;rm=false&amp;continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&amp;ss=1&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2&amp;emr=1&amp;osid=1&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin"/>
+    <parameter name="platform" value="windows"/>
+    <parameter name="os_version" value="10"/>
+
+    <test name="Gmail Test">
+        <classes>
+            <class name="com.Gmail.SendMail"/>
+            <class name="com.Gmail.ReceiveMail"/>
+        </classes>
+    </test>
+
+</suite>
