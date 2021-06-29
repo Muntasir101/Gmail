@@ -1,4 +1,6 @@
-### selenium-cucumber-java
+### Gmail
+
+### selenium-java
 
 This repository contains a collection of sample `selenium-cucumber-java` projects and libraries that demonstrate how to
 use the tool and develop automation script using the Cucumber (v 3.0.0) BDD framework with Java as programming language.
@@ -41,12 +43,8 @@ several different types of test reporters to communicate pass/failure.
 
 You will get HTML report 
 
-##### JSON Report:
 
-To generate a JSON report Use `mvn test -Dcucumber.options="–plugin json:target/result.json"`
+##### Extent Reports
 
-##### Extent Spark Reports
-
-The Framework uses [Spark Reports Framework](http://www.extentreports.com/docs/versions/4/java/spark-reporter.html) to
-generate the HTML Test Reports
+The Framework uses Extent report to generate the HTML Test Reports.
 
