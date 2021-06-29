@@ -39,7 +39,7 @@ several different types of test reporters to communicate pass/failure.
 
 ##### HTML Report:
 
-To generate HTML report use  `mvn test -Dcucumber.options="–plugin html:target/result.html"`
+You will get HTML report 
 
 ##### JSON Report:
 
