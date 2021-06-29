@@ -27,6 +27,9 @@ Open terminal (MAC OSX) or command prompt / power shell (for windows OS) and nav
 type `mvn clean test` command to run tests. With this command it will invoke the default Firefox browser and will
 execute the tests.
 
+### Logs
+
+Once you ran your tests, Log auto generate. This framework `Gmail` Log4J for log management.
 
 ### Reporters
 
